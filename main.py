@@ -1,3 +1,6 @@
 print("Daniela")
 print("Hola")
-prijng
+name = 'Mary'
+password = 'swordfish'
+if name == 'Mary':
+    print(name)
